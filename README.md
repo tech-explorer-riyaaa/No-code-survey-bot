@@ -1,2 +1,18 @@
 # No-code-survey-bot
-Survey Bot Fun Repository  || Here lies our survey bot designed with landbot.io! Explore elements, discover its interactive features, and witness the magic of a connected database. It's not just a plain basic survey bot—it's a playful journey into the world of automated surveys with a touch of fun to it. Dive in and enjoy the fun! 🤖✨
+# Survey Bot Fun Repository
+
+Welcome to the Survey Bot Fun Repository! 🤖✨
+
+## About
+This repository houses our interactive survey bot, crafted with landbot.io, as part of the Castor Hackathon. Dive in to explore its features, elements, and the magic of a connected database.
+
+## Highlights
+- Designed with landbot.io
+- Interactive survey elements
+- Connected database for seamless data handling
+
+## Hackathon
+Created during the Castor Hackathon, this project adds a playful touch to automated surveys. Join us in the fun journey of exploration!
+
+Enjoy the experience! 🚀
+
