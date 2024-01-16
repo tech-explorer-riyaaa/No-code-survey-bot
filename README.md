@@ -11,7 +11,7 @@ This repository houses our interactive survey bot, crafted with landbot.io, as p
 - Connected database for seamless data handling
 
 ## Deployment
-Check out the deployed survey bot [here](#insert_deployed_link).
+Check out the deployed survey bot [here](https://4hry6yktgehne61mcwh3og.on.drv.tw/PrismieBot/bot.html).
 
 ## Hackathon
 Created during the Castor Hackathon, this project adds a playful touch to automated surveys. Explore our Devfolio page - https://devfolio.co/projects/prismiebot-b64d for more details.
