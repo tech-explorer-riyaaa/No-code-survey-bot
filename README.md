@@ -14,7 +14,7 @@ This repository houses our interactive survey bot, crafted with landbot.io, as p
 Check out the deployed survey bot [here](#insert_deployed_link).
 
 ## Hackathon
-Created during the Castor Hackathon, this project adds a playful touch to automated surveys. Explore our [Devfolio page]([https://devfolio.co/projects/prismiebot-b64d]) for more details.
+Created during the Castor Hackathon, this project adds a playful touch to automated surveys. Explore our Devfolio page - https://devfolio.co/projects/prismiebot-b64d for more details.
 
 Enjoy the experience! 🚀
 
